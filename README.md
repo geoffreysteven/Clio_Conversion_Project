@@ -1,13 +1,13 @@
-# Clio_Conversion_Project
-Data Science project to optimize prospects to conversions.
+# Clio Conversion Project
+Data Science project to optimize prospects to conversions. 
 
-Please read the Report.pdf. This project was done on a Mac using Pages and Numbers.
+Please read the **Report.pdf**. This project was done on a Mac using Pages and Numbers.
 
-If you want to inspect the machine learning, please download Orange from: https://orange.biolab.si/download
+If you want to try out the machine learning, you will need [Orange] (https://https://orange.biolab.si/download).
 
 ## Files
 
-Report.pdf - Eight page summary of the final results
+Report.pdf - Eight page summary of the final results 
 
 Process.ipynb - Python notebook for data preprocessing 
 
